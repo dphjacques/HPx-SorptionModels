@@ -1,8 +1,7 @@
-# HPx-TippingModelVII
-Module for Tipping's humic-ion binding Model VII
+# HPx-SorptionModels
+Module for sorption on inorganic and organic substances. Included models are:
+ Tipping's humic-ion binding Model VII
 
-
-**Description**
 
 
  
